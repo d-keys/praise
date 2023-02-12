@@ -1,7 +1,27 @@
-
-
+body {
+	background: #000000;
+}
 
 #topo {
-	position: relative;
-	left: -2%;
+	background: #111111;
+	color: #eeeeee;
+}
+
+#lista-inteira {
+	background: #333333 ;
+}
+
+#cor-modal-corpo {
+	background: #241f31;
+	color: #eeeeee;
+}
+
+#cor-modal-header {
+	background: #141414;
+	color: #eeeeee;
+}
+
+#cor-modal-footer {
+	background: #141414;
+	color: #eeeeee;
 }
