@@ -11,6 +11,20 @@ body {
 	background: #333333 ;
 }
 
+.indice {
+	font-size:1.5rem;
+	padding-top: 15px;
+	padding-left: 30px;
+}
+
+#indice-inicio {
+	padding-top: 15%;
+}
+
+#indice-final {
+	padding-bottom: 15%;
+}
+
 #cor-modal-corpo {
 	background: #241f31;
 	color: #eeeeee;
